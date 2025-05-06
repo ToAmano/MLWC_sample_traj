@@ -7,8 +7,9 @@ This repository provides sample molecular dynamics (MD) trajectories for use wit
 Due to GitHub’s storage limitations, this repository contains only a subset of small-sized trajectory data. Larger datasets are hosted externally on Google Drive.
 
 ## Contents
-	•	traj/ directory: Contains sample MD trajectories for small systems.
-	•	For example, traj/methanol/ includes trajectory data for methanol molecules. ￼
+
+- traj/ directory: Contains sample MD trajectories for small systems.
+- For example, traj/methanol/ includes trajectory data for methanol molecules. ￼
 
 ## Accessing Larger Datasets
 
